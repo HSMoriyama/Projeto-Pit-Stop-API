@@ -1,0 +1,73 @@
+POSTMAN(nome dos campos devem ser iguais aos da api)
+
+
+OFICINA
+    {
+        "razaoSocial": "Oficina 7",
+        "cnpj": "22222222222222",
+        "telefone" : "35212795",
+        "email" : "oficina7@email.com",
+        "endereco" : "B.Itapeva 3, Rua 4, n 798",
+        "status" : "LIVRE"
+    }
+
+USER
+{
+    "nome" : "Péricles Junior",
+    "senha" : "5467"
+}
+
+Cliente
+    {
+        "nome": "Bras Cubas",
+        "cpf": "39964557809",
+        "rg" : "4878998789",
+        "telefone" : "998266286",
+        "email" : "cubas@email.com",
+        "endereco" : "B.Itapeva 3, Rua 9, n 512"
+    }
+
+
+SERVICO
+    {
+        "nomeCliente": "Heisenberg White",
+        "nomeOficina": "Pollos Hermanos Auto-center",
+        "data": "21/12/2022",
+        "horario": "16:30",
+        "descricaoServico": "Fixar parachoque e retrovisor."
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
