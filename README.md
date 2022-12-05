@@ -1,4 +1,4 @@
-# Projeto-Pit-Stop-API
+# Pit-Stop project API
 This is a fullstack application that's in development, this project will be presented as a final evaluation object in a
 fullstack acadamy given by Atos in a partnership with UFN - Universidade Franciscana.
 
