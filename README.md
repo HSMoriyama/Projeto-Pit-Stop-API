@@ -8,7 +8,7 @@ fullstack acadamy given by Atos in a partnership with UFN - Universidade Francis
 # Name:
 Pit-Stop System
 
-# Problem sutuation:
+# Problem situation:
 Someone's vehicle needs urgent repair or maintenance and the vehicle is taken to a wokshop that can gets the job done,
 but the company wasn't prepared for receive the vehicle, being even full of services and able to return the vehicle
 days or weeks later.
